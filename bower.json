@@ -1,0 +1,22 @@
+{
+  "name": "workflow",
+  "description": "atividade módulo workflow",
+  "main": "index.js",
+  "authors": [
+    "kruz"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "aula",
+    "curso"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

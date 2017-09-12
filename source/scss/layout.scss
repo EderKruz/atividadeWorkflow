@@ -1,0 +1,15 @@
+.pista {
+  background-color: green;width: 300px;
+  height: 300px;
+
+  &__title {
+    color: black;
+  }
+}
+
+.esc{
+  background-color: blue;
+  width: 300px;
+  height: 300px;
+  float: right;
+}

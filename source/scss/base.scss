@@ -1,0 +1,16 @@
+.card {
+  background-color: red;
+  width: 300px;
+  height: 300px;
+  margin: 25px;
+  &:hover {
+    background-color: yellow;
+  }
+
+  .title {
+    color: white;
+    &:hover {
+      color: black;
+    }
+  }
+}
